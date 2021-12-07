@@ -17,6 +17,45 @@ public static void main(String[] args) {
     // Increment
     userIn++;
 
+    // Boolean
+
+    // Data conversion
+
+    // Objects
+
+    // Random
+
+    // Math
+
+    // Enum
+
+    // Wrapper Class
+
+    // Setters and Getters
+
+    // Encapsulation
+
+    // Logical Operands
+
+    // Conditionals and Loops
+        // Break, Continue Statements
+        // While, Switch, For
+
+    // Comparing Values
+    
+    // Array List / Array
+
+    // Multidimensional Array
+
+    // Static Variables / Methods / (Privat Method)
+
+    // This Reference (Setters and Getters)
+
+    // Method Overloading
+
+
+
+
 
 
 
