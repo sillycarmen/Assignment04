@@ -17,23 +17,21 @@ public static void main(String[] args) {
     // Increment
     userIn++;
 
-    // Boolean
+    // Array Array List Multidimensional Array
 
-    // Data conversion
 
-    // Objects
-
-    // Random
-
-    // Math
-
-    // Enum
-
-    // Wrapper Class
-
-    // Setters and Getters
-
+    // Objects Method Overloading This Reference (Setters and Getters)
+    // Static Variables / Methods / (Privat Method)
     // Encapsulation
+
+    // Math Random Wrapper Class Data Conversion
+
+   
+    // Boolean 
+
+  
+
+   
 
     // Logical Operands
 
@@ -43,15 +41,10 @@ public static void main(String[] args) {
 
     // Comparing Values
     
-    // Array List / Array
 
-    // Multidimensional Array
 
-    // Static Variables / Methods / (Privat Method)
+    // Enum 
 
-    // This Reference (Setters and Getters)
-
-    // Method Overloading
 
 
 
